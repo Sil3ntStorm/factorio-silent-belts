@@ -1,11 +1,11 @@
 {
 	"name": "silent-belts-4",
-	"version": "1.0.0",
-	"factorio_version": "0.17",
+	"version": "1.0.1",
+	"factorio_version": "0.18",
 	"title": "Silent Belts 4",
 	"author": "Azias, Wakaba-chan, GotLag, Alan",
 	"contact": "Mod portal or Github",
 	"homepage": "https://github.com/aziascreations/Factorio-Silent-Belts-4",
 	"description": "Disables running sound for all belts, including modded ones. For those who get annoyed with that squeaking noise chasing you all over the base.",
-	"dependencies": ["base >= 0.17"]
+	"dependencies": ["base >= 0.18"]
 }
