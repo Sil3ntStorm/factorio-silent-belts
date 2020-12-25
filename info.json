@@ -1,0 +1,10 @@
+{
+	"name": "Silent Belts 2",
+	"version": "0.15.1",
+	"factorio_version": "0.15",
+	"title": "Silent Belts 2",
+	"author": "Alan",
+	"homepage": "",
+	"description": "Transport belts no longer make a high pitched ringing noise..",
+	"dependencies": ["base >= 0.15.00"]
+}
