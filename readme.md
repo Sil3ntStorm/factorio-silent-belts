@@ -1,6 +1,6 @@
 # Factorio - Silent Belts 5
 
-Disables running sound for all belts, including modded ones. For those who get annoyed with that squeaking noise chasing you all over the base.
+Disables running sound for all belts, splitters and miniloaders, including modded ones. For those who get annoyed with that squeaking noise chasing you all over the base.
 
 ## How to install
 

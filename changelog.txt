@@ -1,5 +1,11 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.116
+Version: 1.2.1168
+Date: 2022-09-11
+  Bugfixes:
+    - Fixed an issue preventing the mod from loading when entities did not have
+      sounds in the first place.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1168
 Date: 2022-09-10
   Features:
     - Muted Splitters
