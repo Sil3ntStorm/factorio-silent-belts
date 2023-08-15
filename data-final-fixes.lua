@@ -20,6 +20,9 @@ end
 for _, e in pairs(data.raw['splitter']) do
     silence(e)
 end
+for _, e in pairs(data.raw['loader']) do
+	silence(e)
+end
 if mods['miniloader'] then
     for _, e in pairs(data.raw['loader-1x1']) do
         silence(e)
